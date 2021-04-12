@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Production
+build/
+dist/
+
+# webpack (ESLint rules don't agree with how these configs are written)
+webpack.config.*.jss
